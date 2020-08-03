@@ -1,7 +1,7 @@
 {
     "id": "com.mattermost.solar-lottery",
     "name": "Solar Lottery Team Scheduler",
-    "description": "Solar Lottery team scheduler.",
+    "description": "Solar Lottery assda team scheduler.",
     "version": "0.1.0",
     "min_server_version": "5.16.0",
     "server": {
